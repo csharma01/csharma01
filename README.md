@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Chakshu Sharma
-This is my portfolio for showcasing my skills and projects as a fresher in Python development. Here you will find a list of my projects and skills that demonstrate my proficiency in Python programming and my dedication to continuous learning.
+This is my portfolio for showcasing my skills and projects in Python development. Here you will find a list of my projects and skills that demonstrate my proficiency in Python programming and my dedication to continuous learning.
 
 ##  Projects
 - **Carpool Application using Python and Tkinter**
