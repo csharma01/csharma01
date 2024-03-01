@@ -4,10 +4,22 @@ This is my portfolio for showcasing my skills and projects as a fresher in Pytho
 ##  Projects
 - **Carpool Application using Python and Tkinter**
 
-  I developed a carpooling application using Python and Tkinter that allows users to easily find and connect with others who are headed in the same direction. With this app, users can create and join carpools for work, school, or social events, making it easier to share the ride. The app uses a simple user interface, allowing users to quickly search for available carpools, view the ride details.
+  Developed a carpooling application using Python and Tkinter, demonstrating proficiency in user authentication, database management, and GUI development.
 
   Link to the project repository: https://github.com/csharma01/Carpooling_Application
 
+- **World Economic Dashboard on Azure – BDAT 1004**
+
+    Developed a web-based dashboard showcasing real-time world economic data, demonstrating my skills in data acquisition, visualization, and cloud deployment.
+
+    Link to the repository: https://github.com/csharma01/Group14FinalProject.BDAT1004
+    
+- **Secure Contact Management System (ASP.NET Core) – BDAT1001**
+
+    Developed a web application using ASP.NET Core that implements authorization and user access control for managing contact information.
+  
+    Link to the repository: https://github.com/csharma01/BDAT1001Group14_FinalProject
+  
 - **Time Calculator from scratch using Python**
 
    Developed a time calculator from scratch using Python, incorporating user input functions and logic to accurately calculate elapsed time.
