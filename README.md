@@ -12,13 +12,13 @@ This is my portfolio for showcasing my skills and projects in Python development
 
     Developed a web-based dashboard showcasing real-time world economic data, demonstrating my skills in data acquisition, visualization, and cloud deployment.
 
-    Link to the repository: https://github.com/csharma01/Group14FinalProject.BDAT1004
+    Link to the repository: https://github.com/csharma01/World-Economic-Dashboard-on-Azure
     
 - **Secure Contact Management System (ASP.NET Core) – BDAT1001**
 
     Developed a web application using ASP.NET Core that implements authorization and user access control for managing contact information.
   
-    Link to the repository: https://github.com/csharma01/BDAT1001Group14_FinalProject
+    Link to the repository: https://github.com/csharma01/Secure-Contact-Management-System-ASP.NET-Core
   
 - **Time Calculator from scratch using Python**
 
