@@ -34,7 +34,7 @@ This is my portfolio for showcasing my skills and projects in Python development
   Link to the project repository: https://github.com/csharma01/boilerplate-arithmetic-formatter
 
 ## **Contact**
-  Email - csharma0115@gmail.com
+  Email - csharma4234@gmail.com
   
 Feel free to reach out to me if you have any questions or if you're interested in working together. Thank you for taking the time to review my portfolio!
 
