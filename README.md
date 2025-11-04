@@ -18,7 +18,7 @@ I am a **Data Scientist** with an MSc in Data Science and experience building ET
 * Integrated 3 government datasets (LAQN air quality, DfT traffic, Open-Meteo weather) handling more than 100 monitoring sites across London.
 * Engineered more than 5 temporal, traffic, and policy features (ULEZ zones, COVID lockdowns) with lagged pollutant values.
 * Built ML models like Random Forest and LightGBM achieving R-squared of 0.63 (NO2) and 0.56 (PM2.5), outperforming baseline by 41%.
-* **Link to repository:** [https://github.com/csharma01/World-Economic-Dashboard-on-Azure](https://github.com/csharma01/Air-pollution-london-forecast)
+* **Link to repository:** [https://github.com/csharma01/Air-pollution-london-forecast](https://github.com/csharma01/Air-pollution-london-forecast)
 
 ### Predicting Patient Survival with Random Forests
 * **Tools:** Python, Random Forest, SMOTE, scikit-learn
@@ -34,6 +34,7 @@ I am a **Data Scientist** with an MSc in Data Science and experience building ET
 * Developed an interactive Flask dashboard with geospatial visualizations for non-technical users; deployed on Azure with Docker.
 * **Link to repository:** [https://github.com/csharma01/World-Economic-Dashboard-on-Azure
 ](https://github.com/csharma01/World-Economic-Dashboard-on-Azure)
+
 ### New York City Dog-License Analysis
 * **Tools:** Python, Pandas, Statistical Analysis
 * Analyzed more than 1M records to identify a 35% increase in dog licenses post-2019, correlating with COVID-19 WFH trends.
@@ -61,6 +62,5 @@ I am a **Data Scientist** with an MSc in Data Science and experience building ET
 
 ## **Contact**
 * **Email:** csharma4234@gmail.com
-* **LinkedIn:** linkedin.com/in/csharma01
 
 Feel free to reach out to me if you have any questions or if you're interested in working together. Thank you for taking the time to review my portfolio!
