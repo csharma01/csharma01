@@ -1,7 +1,7 @@
 # Hi, I’m Chakshu Sharma
 I am a **Data Scientist** with an MSc in Data Science and experience building ETL pipelines, interactive dashboards, and forecasting models. I am skilled in Python, SQL, Power BI, and geospatial analysis, with a proven ability to combine multiple data sources, automate workflows, and deliver actionable insights for business stakeholders.
 
-* **LinkedIn:** linkedin.com/in/csharma01
+* **LinkedIn:** [linkedin.com/in/csharma01](https://www.linkedin.com/in/csharma01/)
 
 ## Skills
 
